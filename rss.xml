@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DELIVERY BÉNIN — Services de livraison</title>
+    <link>https://deliverybenin.com/2/</link>
+    <description>Services, tarifs et zones de livraison de DELIVERY BÉNIN à Pahou, Abomey-Calavi et Cotonou.</description>
+    <language>fr</language>
+    <atom:link href="https://deliverybenin.com/2/rss.xml" rel="self" type="application/rss+xml" />
+    <item><title>Nos tarifs de livraison</title><link>https://deliverybenin.com/2/#tarifs</link><guid isPermaLink="true">https://deliverybenin.com/2/#tarifs</guid><description>Livraisons à partir de 700 FCFA à Pahou, 1 000 FCFA vers Abomey-Calavi et 1 500 à 2 000 FCFA vers Cotonou selon le quartier. Confirmation du tarif auprès de l’équipe.</description></item>
+    <item><title>Six services pour vos livraisons</title><link>https://deliverybenin.com/2/#services</link><guid isPermaLink="true">https://deliverybenin.com/2/#services</guid><description>Colis, repas, documents, ventes en ligne, courses d’entreprise et dépôt ou retrait de colis.</description></item>
+    <item><title>Zones desservies par DELIVERY BÉNIN</title><link>https://deliverybenin.com/2/#zones</link><guid isPermaLink="true">https://deliverybenin.com/2/#zones</guid><description>Pahou, Abomey-Calavi et Cotonou. Contactez-nous pour confirmer toute autre destination.</description></item>
+  </channel>
+</rss>

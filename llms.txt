@@ -1,0 +1,28 @@
+# DELIVERY BÉNIN — Site et services
+
+Site vitrine de livraison de DELIVERY BÉNIN, basé à Pahou et reliant Pahou, Abomey-Calavi et Cotonou.
+
+- Slogan : Votre livraison, notre priorité.
+- Contact et commandes : 01 90 19 25 26
+- WhatsApp : https://wa.me/2290190192526
+- Disponibilité annoncée : 7 jours sur 7
+
+## Tarifs affichés
+- Pahou ↔ Pahou : 700 FCFA
+- Pahou ↔ Abomey-Calavi : 1 000 FCFA
+- Pahou ↔ Cotonou : 1 500 à 2 000 FCFA selon le quartier
+- Confirmer la prise en charge et le tarif auprès de l’équipe.
+
+## Services présentés
+Livraison de colis et marchandises, repas et courses, plis et documents, commandes de vendeurs en ligne, coursier d’entreprise et dépôt ou retrait de colis.
+
+## Zones
+Pahou, Abomey-Calavi (Godomey à Arconville), Cotonou (Akpakpa à Fidjrossè). Autres destinations à confirmer avec l’équipe.
+
+## Sections du site
+- Accueil et calculateur : https://deliverybenin.com/2/#accueil
+- Tarifs : https://deliverybenin.com/2/#tarifs
+- Services : https://deliverybenin.com/2/#services
+- Présentation et engagements : https://deliverybenin.com/2/#apropos
+- Zones : https://deliverybenin.com/2/#zones
+- Questions fréquentes : https://deliverybenin.com/2/#faq

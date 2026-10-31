@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /2/
+Disallow: /2/assets/
+Disallow: /2/Logo/
+
+Sitemap: https://deliverybenin.com/2/sitemap.xml
